@@ -3,7 +3,7 @@ import pandas as pd
 from io import BytesIO
 
 # مسار ملف الفريم الذي سيتم تحميله
-template_path = r'C:\asd2\Meter data frame to be analyzed.xlsx'
+template_path = r'Meter data frame to be analyzed.xlsx'
 
 # استخدام CSS لجعل العناصر متجاوبة مع الشاشة
 st.markdown("""
